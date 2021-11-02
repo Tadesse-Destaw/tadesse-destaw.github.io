@@ -82,19 +82,19 @@ analytics:
 author:
   name             : "Tadesse Destaw Belay"
   avatar           : "profile.jpg"
-  bio              : "NLP researcher"
+  bio              : "NLP researcher at KIoT, Wollo University"
   location         : "Bahir Dar, Ethiopia"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : #https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow
+  googlescholar    : "http://myfullgooglescholarurl.com"
+  email            : "tadesseit@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/tadesseit/"
   foursquare       :
   github           : "tadesse-destaw"
   google_plus      :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/tadesse-desataw-547b0a151/"
+  orcid            : #http://orcid.org/yourorcidurl
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #replacethistwitterhandle
   vine             :
   weibo            :
   xing             :

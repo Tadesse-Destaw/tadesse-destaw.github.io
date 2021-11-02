@@ -3,16 +3,16 @@ main:
   - title: "Publications"
     url: /publications/
 
-   - title: "Software"
-    url: /portfolio/
-    
- - title: "Talks"
+  - title: "Talks"
     url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
-            
-  - title: "Work Experiance"
+    
+  - title: "Sotware"
+    url: /portfolio/
+        
+  - title: "Work Experience"
     url: /year-archive/
     
   - title: "CV"

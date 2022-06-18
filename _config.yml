@@ -83,12 +83,12 @@ author:
   name             : "Tadesse Destaw Belay"
   avatar           : "profile.jpg"
   bio              : "NLP researcher at KIoT, Wollo University"
-  location         : "Bahir Dar, Ethiopia"
+  location         : "Kombolcha, Ethiopia"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://myfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=8S7ilV0AAAAJ"
   email            : "tadesseit@gmail.com"
-  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.semanticscholar.org/author/T.-Belay/1484858320"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/tadesse-desataw-547b0a151/"
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-0883-984X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "http://stackoverflow.com/users/123456/username"

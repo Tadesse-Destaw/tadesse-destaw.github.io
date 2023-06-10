@@ -12,7 +12,7 @@ redirect_from:
 
 Get PDF version of my [CV](https://drive.google.com/file/d/18iVajsYj96nwvtF4GBBzcW8wiiHzgsxH/view?usp=sharing)
 
-<iframe src="https://docs.google.com/gview?url=https://drive.google.com/file/d/18iVajsYj96nwvtF4GBBzcW8wiiHzgsxH/view?usp=sharing&embedded=true" style="width:100%; height:1200px;" frameborder="0"></iframe>
+<iframe src="https://docs.google.com/gview?url=https://github.com/Tadesse-Destaw/tadesse-destaw.github.io/blob/master/_pages/Tadesse_D_CV.pdf&embedded=true" style="width:100%; height:1200px;" frameborder="0"></iframe>
 
 Education
 ======

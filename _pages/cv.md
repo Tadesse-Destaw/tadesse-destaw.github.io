@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Get PDF version of my [CV](https://drive.google.com/file/d/18iVajsYj96nwvtF4GBBzcW8wiiHzgsxH/view?usp=sharing)
+Get PDF version of my [CV](https://drive.google.com/drive/folders/1_fJGPBpNtwMuVBJCEX5ts_9bdmusgqrk?usp=sharing)
 
 Education
 ======

@@ -20,7 +20,9 @@ Education
 
 Work experience
 ======
-* September 2021 - current: Researcher and Lecturer
+* August 2023 - current: Researcher and PhD student
+  * Instituto Politécnico Nacional (IPN), Centro de Investigación en Computación (CIC), Mexico City
+* September 2021 - 2023: Lecturer
   * Kombolcha Institute of Technology, Wollo University, Ethiopia
 * 2018-2021: Assistant lecturer
   * Kombolcha Institute of Technology, Wollo University, Ethiopia
@@ -30,7 +32,6 @@ Work experience
 Skills
 ======
 * Machine learning
-  * [Deeplearning4j](https://deeplearning4j.org/)
   * [scikit-learn](http://scikit-learn.org/stable/)
   * [PyTorch](https://pytorch.org)
   * [spaCy](https://spacy.io)

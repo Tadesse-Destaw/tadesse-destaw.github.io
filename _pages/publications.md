@@ -9,10 +9,6 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 {% include base_path %}
 
-<div id="c32945">
-<p><span face="TheSansUHHBold, sans-serif"> </span></p>
-</div>
-
 <div id="c32948">
 <div>
 <h2>Conference Proceedings</h2>

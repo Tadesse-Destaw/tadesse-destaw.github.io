@@ -13,10 +13,11 @@ I am a PhD student at <a href="https://www.cic.ipn.mx/"> Computing Research Cent
 I have M.Sc in Computer Science from <a  href= "https://bit.bdu.edu.et/"> Bahir Dar University</a> and 
 BSc. in Information Technology from  <a href="https://wu.edu.et/"> Wollo University, Kombolcha Institute of Technology</a> Ethiopia.
 
+---
+title: "About me"
 
 ---
-Research Interests
---
+
 <div class="csc-header csc-header-n1">
 <ul>
 <li>Development of Natural Language Processing (NLP) resources and tools</li>

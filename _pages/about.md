@@ -11,7 +11,7 @@ redirect_from:
 I am a PhD student at <a href="https://www.cic.ipn.mx/"> Computing Research Center (CIC), National Polytechnic Institute (IPN)</a>, Mexico City.
 
 I have M.Sc in Computer Science from <a  href= "https://bit.bdu.edu.et/"> Bahir Dar University</a> and 
-BSc. in Information Technology from  <a href="https://wu.edu.et/"> Wollo University, Kombolcha Institute of Technology</a>, Ethiopia.
+B.Sc. in Information Technology from  <a href="https://wu.edu.et/"> Wollo University, Kombolcha Institute of Technology</a>, Ethiopia.
 
 ---
 <h1 class="bodytext"><b>Research Interests<a id="research"></a></b></h1>
@@ -32,7 +32,7 @@ BSc. in Information Technology from  <a href="https://wu.edu.et/"> Wollo Univers
 
 <div class="csc-header csc-header-n1">
 <ul>
-<li>Successfully conducted with others the "Summer School for Women in AI and Data Science" at <a href="https://www.aastu.edu.et/">AASTU</a>: <a  href= "https://medium.com/@seidymam/summer-school-for-women-in-ai-and-data-science-a56e847156d9">  Summer School for Women in AI and Data Science </a></li>
+<li>Successfully conducted the "Summer School for Women in AI and Data Science" with others at <a href="https://www.aastu.edu.et/">AASTU</a>: <a  href= "https://medium.com/@seidymam/summer-school-for-women-in-ai-and-data-science-a56e847156d9">  Summer School for Women in AI and Data Science </a></li>
 <li>Paper accepted at LREC-COLING 2024, <a  href= "https://arxiv.org/abs/2403.13737">  EthioLLM: Multilingual Large Language Models for Ethiopian Languages with Task Evaluation</a></li>
 <li>Paper accepted at AfricaNLP 2024 Workshop, ICLR 2024,<a  href= "https://arxiv.org/abs/2402.08015"> Walia-LLM: Enhancing Amharic-LLaMA by Integrating Task-Specific and Generative Datasets </a></li>
 </ul>

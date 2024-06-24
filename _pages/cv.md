@@ -10,18 +10,19 @@ redirect_from:
 
 {% include base_path %}
 
-Get PDF version of my [CV](https://drive.google.com/drive/folders/1_fJGPBpNtwMuVBJCEX5ts_9bdmusgqrk?usp=sharing)
+Get PDF version of my [CV](https://drive.google.com/file/d/1TtKcN9CA5PpSPJh_U7n59wWJkKSTYjvX/view?usp=drive_link)
 
 Education
 ======
-* B.S. in Information Technology, Wollo University, 2017
+* PhD student in Computer Science, CIC, IPN, Mexico City, 2023 -present
+* M.Sc. in Computer Science, Bahir Dar University, 2021
 * Advanced Diploma in Software Development, 2018
-* M.S. in Computer Science, Bahir Dar University, 2021
+* B.Sc. in Information Technology, Wollo University, 2017
 
 Work experience
 ======
 * August 2023 - current: Researcher and PhD student
-  * Instituto Politécnico Nacional (IPN), Centro de Investigación en Computación (CIC), Mexico City
+  * Centro de Investigación en Computación (CIC), Instituto Politécnico Nacional (IPN), Mexico City
 * September 2021 - 2023: Lecturer
   * Kombolcha Institute of Technology, Wollo University, Ethiopia
 * 2018-2021: Assistant lecturer
@@ -31,18 +32,7 @@ Work experience
 
 Skills
 ======
-* Machine learning
-  * [scikit-learn](http://scikit-learn.org/stable/)
-  * [PyTorch](https://pytorch.org)
-  * [spaCy](https://spacy.io)
-  * [NLTK](https://www.nltk.org)
-  * [Tensorflow](https://www.tensorflow.org/)
-* Python
+* Machine learning: scikit-learn, PyTorch, spaCy, NLTK, and Tensorflow
+* Python, HTML, PHP, Javascript, and Flask
 * CrowdSourcing
-* NLP
-    * Big data processing and cleaning
-    * Integration of machine learning into NLP applications
-* C #
-* HTML
-* Javascript
-* Java
+* NLP, big data processing and analysis, machine learning with NLP

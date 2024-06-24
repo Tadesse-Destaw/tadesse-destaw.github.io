@@ -9,11 +9,11 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Software"
-    url: /software/
+  #- title: "Software"
+  #  url: /software/
         
-  - title: "Work Experience"
-    url: /workexprience/
+ # - title: "Work Experience"
+ #   url: /workexprience/
     
   - title: "CV"
     url: /cv/

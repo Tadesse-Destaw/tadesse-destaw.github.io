@@ -34,5 +34,4 @@ Skills
 ======
 * Machine learning: scikit-learn, PyTorch, spaCy, NLTK, and Tensorflow
 * Python, HTML, PHP, Javascript, and Flask
-* CrowdSourcing
 * NLP, big data processing and analysis, machine learning with NLP

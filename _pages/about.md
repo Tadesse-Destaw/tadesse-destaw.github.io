@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 I am a PhD student at <a href="https://www.cic.ipn.mx/"> Computing Research Center (CIC), National Polytechnic Institute (IPN)</a>, Mexico City.
+I am an active member of the <a  href= "https://www.masakhane.io/"> Masakhane</a> and <a  href= "https://ethionlp.github.io/">EthioNLP</a> NLP community.
 
 I have M.Sc in Computer Science from <a  href= "https://bit.bdu.edu.et/"> Bahir Dar University</a> and 
 B.Sc. in Information Technology from  <a href="https://wu.edu.et/"> Wollo University, Kombolcha Institute of Technology</a>, Ethiopia.

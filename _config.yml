@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tadesse Destaw"
+title                    : "Tadesse Destaw Belay"
 title_separator          : "-"
 name                     : &name "Tadesse Destaw"
 description              : &description "personal description"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Tadesse Destaw Belay"
   avatar           : "profile.jpg"
-  bio              : "NLP researcher at KIoT, Wollo University"
-  location         : "Kombolcha, Ethiopia"
+  bio              : "PhD student at CIC, IPN"
+  location         : "Mexico City"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=8S7ilV0AAAAJ"
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/tadesseit/"
+  facebook         : #"https://www.facebook.com/tadesseit/"
   foursquare       :
   github           : "tadesse-destaw"
   google_plus      :
@@ -103,7 +103,7 @@ author:
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/tadesse-desataw-547b0a151/"
-  orcid            : "https://orcid.org/0000-0003-0883-984X"
+  orcid            : #"https://orcid.org/0000-0003-0883-984X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "http://stackoverflow.com/users/123456/username"

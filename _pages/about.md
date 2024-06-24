@@ -16,7 +16,7 @@ BSc. in Information Technology from  <a href="https://wu.edu.et/"> Wollo Univers
 
 ---
 Research Interests
----
+
 <div class="csc-header csc-header-n1">
 <ul>
 <li>Development of Natural Language Processing (NLP) resources and tools</li>

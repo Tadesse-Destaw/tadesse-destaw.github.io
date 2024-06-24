@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name Tadesse Destaw. Currently, I am a PhD student at Instituto Politécnico Nacional (IPN), Centro de Investigación en Computación (CIC), Mexico City. 
+I am a PhD student at Centro de Investigación en Computación (CIC), Instituto Politécnico Nacional (IPN), Mexico City. 
 
 I have a BSc. degree in Information Technology from Wollo University, Kombolcha Institute of Technology, and MSc in Computer Science from Bahir Dar University, Ethiopia. 
 

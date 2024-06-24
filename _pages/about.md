@@ -25,3 +25,14 @@ BSc. in Information Technology from  <a href="https://wu.edu.et/"> Wollo Univers
 <li>Evaluations of SOTA language models</li>
 </ul>
 </div>
+
+---
+<h1 class="bodytext"><b>News<a id="research"></a></b></h1>
+---
+
+<div class="csc-header csc-header-n1">
+<ul>
+<li>Paper accepted at LREC-COLING 2024, <a  href= "https://arxiv.org/abs/2403.13737">  EthioLLM: Multilingual Large Language Models for Ethiopian Languages with Task Evaluation</a></li>
+<li>Paper accepted at AfricaNLP 2024 Workshop, ICLR 2024,<a  href= "https://arxiv.org/abs/2402.08015"> Walia-LLM: Enhancing Amharic-LLaMA by Integrating Task-Specific and Generative Datasets </a></li>
+</ul>
+</div>

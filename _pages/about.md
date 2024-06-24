@@ -14,8 +14,7 @@ I have M.Sc in Computer Science from <a  href= "https://bit.bdu.edu.et/"> Bahir 
 BSc. in Information Technology from  <a href="https://wu.edu.et/"> Wollo University, Kombolcha Institute of Technology</a> Ethiopia.
 
 ---
-title: "About me"
-
+<h1 class="bodytext"><b>Research Interests<a id="research"></a></b></h1>
 ---
 
 <div class="csc-header csc-header-n1">

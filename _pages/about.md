@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student at <a href="https://www.cic.ipn.mx/"> Computing Research Center (CIC), National Polytechnic Institute (IPN)</a>, Mexico City.
 
-I have M.Sc in Computer Science from <a "https://bit.bdu.edu.et/"> Bahir Dar University</a> and 
+I have M.Sc in Computer Science from <a  href= "https://bit.bdu.edu.et/"> Bahir Dar University</a> and 
 BSc. in Information Technology from  <a href="https://wu.edu.et/"> Wollo University, Kombolcha Institute of Technology</a> Ethiopia.
 
 

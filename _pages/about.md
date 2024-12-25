@@ -33,8 +33,8 @@ B.Sc. in Information Technology from  <a href="https://wu.edu.et/"> Wollo Univer
 
 <div class="csc-header csc-header-n1">
 <ul>
+<li>Paper accepted at COLING 2025, <a  href= "https://arxiv.org/abs/2412.17837">  Evaluating the Capabilities of Large Language Models for Multi-label Emotion Understanding</a></li>
 <li>Paper accepted at EMNLP 2024 conference,<a  href= "https://arxiv.org/abs/2402.08015"> Walia-LLM: Enhancing Amharic-LLaMA by Integrating Task-Specific and Generative Datasets </a></li>
 <li>Successfully conducted the "Summer School for Women in AI and Data Science" with others at <a href="https://www.aastu.edu.et/">AASTU</a>: <a  href= "https://medium.com/@seidymam/summer-school-for-women-in-ai-and-data-science-a56e847156d9">  Summer School for Women in AI and Data Science </a></li>
-<li>Paper accepted at LREC-COLING 2024, <a  href= "https://arxiv.org/abs/2403.13737">  EthioLLM: Multilingual Large Language Models for Ethiopian Languages with Task Evaluation</a></li>
 </ul>
 </div>

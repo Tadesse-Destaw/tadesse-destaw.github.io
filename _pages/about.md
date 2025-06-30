@@ -20,10 +20,10 @@ B.Sc. in Information Technology from  <a href="https://wu.edu.et/"> Wollo Univer
 
 <div class="csc-header csc-header-n1">
 <ul>
-<li>Development of Natural Language Processing (NLP) resources and tools</li>
-<li>Data analysis and visualization</li>
-<li>NLP for low resource languages </li>
-<li>Evaluations of SOTA language models</li>
+<li>Open Data for Language Models</li>
+<li>Adapting Language Models to Specialized domain </li>
+<li>Standards and Best Practices in NLP Evaluation</li>
+<li>NLP for low resource languages</li>
 </ul>
 </div>
 

@@ -20,6 +20,19 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 </li>  
 
 <li>
+<strong><span style="color: #0000ff;">Belay, T.D.</span></strong>, Hussen, K.Y., Imam, S.H., Ahmad, I.S., Inuwa-Dutse, I., Haile, A.B., Sidorov, G., Ameer, I., Abdulmumin, I., Gwadabe, T., Marivate, V., Muhammad S. H., Yimam, S.M., 2025. , The Rise of AfricaNLP: Contributions, Contributors, and Community Impact (2005-2025). ArXiv (<a href="https://arxiv.org/abs/2509.25477">pdf</a>)
+</li>
+
+
+<li>
+<strong><span style="color: #0000ff;">Belay, T.D.</span></strong>, Azime I. A., Ahmad I. S., Adelani D. I., Abdulmumin I., Ayele A. A., Muhammad S. H., Yimam, S.M., AfroXLMR-Social: Adapting Pre-trained Language Models for African Languages Social Media Text. EMNLP 2025, EMNLP  2025. (<a href="https://aclanthology.org/2025.findings-emnlp.842/">pdf</a>)
+</li>
+
+<li>
+Nigatu, H.H., Tonja, A.L., Ademtew, H.B., Alemayehu, H.M., Abadi, N.H., <strong><span style="color: #0000ff;">Belay, T.D.</span></strong>, and Yimam, S.M., A Case Against Implicit Standards: Homophone Normalization in Machine Translation for Languages that use the Ge’ez Script, EMNLP  2025. (<a href="https://aclanthology.org/2025.emnlp-main.523/">pdf</a>)
+</li>
+
+<li>
 Muhammad, S.H., Ousidhoum, N., Abdulmumin, I., Yimam, S.M., Wahle, J.P., Ruas, T., Beloucif, M., De Kock, C., <strong><span style="color: #0000ff;">Belay T.D.</span></strong>, Ahmad, I.S. and Surange, N., Teodorescu, D., David Ifeoluwa Adelani, A. I., Aji, A.F, Ali, F, Araujo, F., Ayele, A.A., Ignat, O, Panchenko, A.,  Zhou Y., Mohammad S.M, 2025. SemEval-2025 task 11: Bridging the gap in text-based emotion detection, ACL  2025. (<a href="https://arxiv.org/abs/2503.07269">pdf</a>)
 </li>
 

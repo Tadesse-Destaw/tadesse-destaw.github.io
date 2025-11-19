@@ -15,6 +15,8 @@ Get PDF version of my [CV](https://drive.google.com/file/d/11UYB1pV34SJPWmHHYmD6
 Education
 ======
 * PhD student in Computer Science, CIC, IPN, Mexico City, 2023 -present
+* Visiting Research Scholar at Pennsylvania State University, USA, Aug 2025 -present
+* PhD intern at University of South Florida, USA, Aug 2025 -present
 * M.Sc. in Computer Science, Bahir Dar University, 2021
 * Advanced Diploma in Software Development, 2018
 * B.Sc. in Information Technology, Wollo University, 2017

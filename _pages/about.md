@@ -14,46 +14,56 @@ B.Sc. in Information Technology from  <a href="https://wu.edu.et/"> Wollo Univer
 I am an active member of the <a  href= "https://www.masakhane.io/"> Masakhane</a> and <a  href= "https://ethionlp.github.io/">EthioNLP</a> NLP community.
 
 <div class="research-dashboard">
-  <!-- Combined Research Impact & Open Source Card -->
-  <div class="dashboard-card combined-impact-card">
-    <div class="dashboard-card-header">
-      <div class="dashboard-icon research-impact-icon">📈</div>
-      <h3 class="dashboard-card-title">Research Impact & Open Source Contributions</h3>
+  <div class="dashboard-card combined-impact-card" style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px; margin-bottom: 15px;">
+    <div class="dashboard-card-header" style="display: flex; align-items: center; margin-bottom: 10px;">
+      <h3 class="dashboard-card-title">📈 Research Impact & Open Source Contributions</h3>
     </div>
+    
     <div class="dashboard-card-content">
-      <div class="metric-card">
-        <div class="metric-value">2000+</div>
-        <div class="metric-label">Citations</div>
-        <div class="metric-icon">📈</div>
-      </div>
-      <div class="metric-card">
-        <div class="metric-value">13</div>
-        <div class="metric-label">h-index</div>
-        <div class="metric-icon">🎓</div>
-      </div>
-      <div class="metric-card">
-        <div class="metric-value">700K+</div>
-        <div class="metric-label">Models Downloads</div>
-        <div class="metric-icon">🤖</div>
-      </div>
-      <div class="metric-card">
-        <div class="metric-value">50K+</div>
-        <div class="metric-label">Benchmarks Downloads</div>
-        <div class="metric-icon">📊</div>
-      </div>
+      <table width="100%" style="border-collapse: separate; border-spacing: 10px 0;">
+        <tr>
+          <td width="25%" style="border: 1px solid #f0f0f0; border-radius: 4px; padding: 10px; background: #fafbfc;">
+            <div style="font-size: 20px;"><b>2000+</b></div>
+            <div style="color: #586069; font-size: 12px;">Citations 📈</div>
+          </td>
+          <td width="25%" style="border: 1px solid #f0f0f0; border-radius: 4px; padding: 10px; background: #fafbfc;">
+            <div style="font-size: 20px;"><b>13</b></div>
+            <div style="color: #586069; font-size: 12px;">h-index 🎓</div>
+          </td>
+          <td width="25%" style="border: 1px solid #f0f0f0; border-radius: 4px; padding: 10px; background: #fafbfc;">
+            <div style="font-size: 20px;"><b>700K+</b></div>
+            <div style="color: #586069; font-size: 12px;">Models Downloads 🤖</div>
+          </td>
+          <td width="25%" style="border: 1px solid #f0f0f0; border-radius: 4px; padding: 10px; background: #fafbfc;">
+            <div style="font-size: 20px;"><b>50K+</b></div>
+            <div style="color: #586069; font-size: 12px;">Benchmarks Downloads 📊</div>
+          </td>
+        </tr>
+      </table>
     </div>
-    <div class="dashboard-card-footer">
-      <a href="https://scholar.google.com/citations?user=XqPX5XcAAAAJ&hl=en" target="_blank" rel="noopener noreferrer" class="dashboard-link">
-        <img src="/images/logos/google-scholar.png" alt="Google Scholar" class="footer-logo" onerror="this.style.display='none';">
-        <span>Google Scholar</span> →
-      </a>
-      <span style="margin: 0 0.5em;">•</span>
-      <a href="https://huggingface.co/ahmed-masry" target="_blank" rel="noopener noreferrer" class="dashboard-link">
-        <img src="/images/logos/huggingface.png" alt="HuggingFace" class="footer-logo" onerror="this.style.display='none';">
-        <span>HuggingFace</span> →
-      </a>
+
+    <div class="dashboard-card-footer" style="margin-top: 15px; font-size: 14px;">
+      <a href="https://scholar.google.com/citations?user=XqPX5XcAAAAJ&hl=en">🎓 Google Scholar →</a>
+      <span style="margin: 0 10px; color: #e1e4e8;">•</span>
+      <a href="https://huggingface.co/ahmed-masry">🤗 HuggingFace →</a>
     </div>
   </div>
+
+  <div class="dashboard-card publications-card" style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px;">
+    <div class="dashboard-card-header" style="margin-bottom: 10px;">
+      <h3 class="dashboard-card-title">📚 Key Publications</h3>
+    </div>
+    <div class="dashboard-card-content">
+      <img src="https://img.shields.io/badge/NeurIPS-'25-9b59b6?style=flat-square" alt="NeurIPS">
+      <img src="https://img.shields.io/badge/COLM-'25-1abc9c?style=flat-square" alt="COLM">
+      <img src="https://img.shields.io/badge/ICLR-'25-af7ac5?style=flat-square" alt="ICLR">
+      <img src="https://img.shields.io/badge/ACL-'25_'24_'22-3498db?style=flat-square" alt="ACL">
+      <img src="https://img.shields.io/badge/EMNLP-'25_(Industry)_'24_'23-3b79db?style=flat-square" alt="EMNLP">
+      <img src="https://img.shields.io/badge/COLING-'25_(Industry)-4a90e2?style=flat-square" alt="COLING">
+      <img src="https://img.shields.io/badge/EuroVis-'22-16a085?style=flat-square" alt="EuroVis">
+    </div>
+  </div>
+</div>
 
 ## 📚 Key Publications
 

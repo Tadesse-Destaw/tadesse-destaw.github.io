@@ -26,15 +26,18 @@ I am an active member of the <a  href= "https://www.masakhane.io/"> Masakhane</a
 
 ## 📚 Key Publications
 
-| Venue | Years |
-| :--- | :--- |
-| **NeurIPS** | ![NeurIPS](https://img.shields.io/badge/'25-8A2BE2) |
-| **COLM** | ![COLM](https://img.shields.io/badge/'25-00CED1) |
-| **ICLR** | ![ICLR](https://img.shields.io/badge/'25-9966CC) |
-| **ACL** | ![ACL](https://img.shields.io/badge/'25-4169E1) ![ACL](https://img.shields.io/badge/'24-4169E1) ![ACL](https://img.shields.io/badge/'22-4169E1) |
-| **EMNLP** (Industry) | ![EMNLP](https://img.shields.io/badge/'25-4682B4) ![EMNLP](https://img.shields.io/badge/'24-4682B4) ![EMNLP](https://img.shields.io/badge/'23-4682B4) |
-| **COLING** (Industry) | ![COLING](https://img.shields.io/badge/'25-6495ED) |
-| **EuroVis** | ![EuroVis](https://img.shields.io/badge/'22-20B2AA) |
+<div class="dashboard-card-content">
+  <div class="publication-badges">
+    <img src="https://img.shields.io/badge/NeurIPS-'25-9b59b6?style=flat-square" alt="NeurIPS">
+    <img src="https://img.shields.io/badge/COLM-'25-1abc9c?style=flat-square" alt="COLM">
+    <img src="https://img.shields.io/badge/ICLR-'25-af7ac5?style=flat-square" alt="ICLR">
+    <img src="https://img.shields.io/badge/ACL-'25_'24_'22-3498db?style=flat-square" alt="ACL">
+    <img src="https://img.shields.io/badge/EMNLP-'25_(Industry)_'24_'23-3b79db?style=flat-square" alt="EMNLP">
+    <img src="https://img.shields.io/badge/COLING-'25_(Industry)-4a90e2?style=flat-square" alt="COLING">
+    <img src="https://img.shields.io/badge/EuroVis-'22-16a085?style=flat-square" alt="EuroVis">
+  </div>
+</div>
+
 ---
 <h1 class="bodytext"><b>Recent News<a id="research"></a></b></h1>
 ---

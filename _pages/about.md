@@ -20,7 +20,7 @@ I am an active member of the <a  href= "https://www.masakhane.io/"> Masakhane</a
 | 📊 **450+** <br> Citations | 🎓 **10** <br> h-index | 🤖 **100K+** <br> Models Downloads | 📊 **50K+** <br> Benchmarks Downloads |
 | :---: | :---: | :---: | :---: |
 
-> [**Google Scholar** ↗️](https://scholar.google.com/citations?user=8S7ilV0AAAAJ&hl=en) &nbsp; • &nbsp; [**HuggingFace** 🤗](https://huggingface.co/Tadesse)
+> [**Google Scholar**🎓](https://scholar.google.com/citations?user=8S7ilV0AAAAJ&hl=en) &nbsp; • &nbsp; [**HuggingFace** 🤗](https://huggingface.co/Tadesse)
 
 ---
 

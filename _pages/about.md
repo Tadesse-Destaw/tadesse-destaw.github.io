@@ -15,70 +15,27 @@ I am an active member of the <a  href= "https://www.masakhane.io/"> Masakhane</a
 
 ---
 
-<div class="research-dashboard">
-  <!-- Combined Research Impact & Open Source Card -->
-  <div class="dashboard-card combined-impact-card">
-    <div class="dashboard-card-header">
-      <div class="dashboard-icon research-impact-icon">📈</div>
-      <h3 class="dashboard-card-title">Research Impact & Open Source Contributions</h3>
-    </div>
-    <div class="dashboard-card-content">
-      <div class="metric-card">
-        <div class="metric-value">2000+</div>
-        <div class="metric-label">Citations</div>
-        <div class="metric-icon">📈</div>
-      </div>
-      <div class="metric-card">
-        <div class="metric-value">13</div>
-        <div class="metric-label">h-index</div>
-        <div class="metric-icon">🎓</div>
-      </div>
-      <div class="metric-card">
-        <div class="metric-value">700K+</div>
-        <div class="metric-label">Models Downloads</div>
-        <div class="metric-icon">🤖</div>
-      </div>
-      <div class="metric-card">
-        <div class="metric-value">50K+</div>
-        <div class="metric-label">Benchmarks Downloads</div>
-        <div class="metric-icon">📊</div>
-      </div>
-    </div>
-    <div class="dashboard-card-footer">
-      <a href="https://scholar.google.com/citations?user=XqPX5XcAAAAJ&hl=en" target="_blank" rel="noopener noreferrer" class="dashboard-link">
-        <img src="/images/logos/google-scholar.png" alt="Google Scholar" class="footer-logo" onerror="this.style.display='none';">
-        <span>Google Scholar</span> →
-      </a>
-      <span style="margin: 0 0.5em;">•</span>
-      <a href="https://huggingface.co/ahmed-masry" target="_blank" rel="noopener noreferrer" class="dashboard-link">
-        <img src="/images/logos/huggingface.png" alt="HuggingFace" class="footer-logo" onerror="this.style.display='none';">
-        <span>HuggingFace</span> →
-      </a>
-    </div>
-  </div>
+## 📈 Research Impact & Open Source Contributions
 
-  <!-- Key Publications Card -->
-  <div class="dashboard-card publications-card">
-    <div class="dashboard-card-header">
-      <div class="dashboard-icon publications-icon">📚</div>
-      <h3 class="dashboard-card-title">Key Publications</h3>
-    </div>
-    <div class="dashboard-card-content">
-      <div class="publication-badges">
-        <span class="publication-badge badge-neurips">NeurIPS '25</span>
-        <span class="publication-badge badge-colm">COLM '25</span>
-        <span class="publication-badge badge-iclr">ICLR '25</span>
-        <span class="publication-badge badge-acl">ACL '25 '24 '22</span>
-        <span class="publication-badge badge-emnlp">EMNLP '25 (Industry) '24 '23</span>
-        <span class="publication-badge badge-coling">COLING '25 (Industry)</span>
-        <span class="publication-badge badge-eurovis">EuroVis '22</span>
-      </div>
-    </div>
-  </div>
-</div>  
+| 📊 **2000+** <br> Citations | 🎓 **13** <br> h-index | 🤖 **700K+** <br> Models Downloads | 📊 **50K+** <br> Benchmarks Downloads |
+| :---: | :---: | :---: | :---: |
 
-<br />
+> [**Google Scholar** ↗️](https://scholar.google.com/citations?user=YOUR_ID) &nbsp; • &nbsp; [**HuggingFace** 🤗](https://huggingface.co/YOUR_USERNAME)
 
+---
+
+## 📚 Key Publications
+
+| Venue | Years |
+| :--- | :--- |
+| **NeurIPS** | ![NeurIPS](https://img.shields.io/badge/'25-8A2BE2) |
+| **COLM** | ![COLM](https://img.shields.io/badge/'25-00CED1) |
+| **ICLR** | ![ICLR](https://img.shields.io/badge/'25-9966CC) |
+| **ACL** | ![ACL](https://img.shields.io/badge/'25-4169E1) ![ACL](https://img.shields.io/badge/'24-4169E1) ![ACL](https://img.shields.io/badge/'22-4169E1) |
+| **EMNLP** (Industry) | ![EMNLP](https://img.shields.io/badge/'25-4682B4) ![EMNLP](https://img.shields.io/badge/'24-4682B4) ![EMNLP](https://img.shields.io/badge/'23-4682B4) |
+| **COLING** (Industry) | ![COLING](https://img.shields.io/badge/'25-6495ED) |
+| **EuroVis** | ![EuroVis](https://img.shields.io/badge/'22-20B2AA) |
+---
 <h1 class="bodytext"><b>Recent News<a id="research"></a></b></h1>
 ---
 

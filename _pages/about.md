@@ -15,9 +15,35 @@ I am an active member of the <a  href= "https://www.masakhane.io/"> Masakhane</a
 
 ---
 
-## 📈 Research Impact & Open Source Contributions
-
-| 📊 **450+**  Citations | 🎓 **10**  h-index | 🤖 **100K+**  Models Downloads | 📊 **50K+**  Benchmarks Downloads |
+<div class="research-dashboard">
+  <!-- Combined Research Impact & Open Source Card -->
+  <div class="dashboard-card combined-impact-card">
+    <div class="dashboard-card-header">
+      <div class="dashboard-icon research-impact-icon">📈</div>
+      <h3 class="dashboard-card-title">Research Impact & Open Source Contributions</h3>
+    </div>
+    <div class="dashboard-card-content">
+      <div class="metric-card">
+        <div class="metric-value">2000+</div>
+        <div class="metric-label">Citations</div>
+        <div class="metric-icon">📈</div>
+      </div>
+      <div class="metric-card">
+        <div class="metric-value">13</div>
+        <div class="metric-label">h-index</div>
+        <div class="metric-icon">🎓</div>
+      </div>
+      <div class="metric-card">
+        <div class="metric-value">700K+</div>
+        <div class="metric-label">Models Downloads</div>
+        <div class="metric-icon">🤖</div>
+      </div>
+      <div class="metric-card">
+        <div class="metric-value">50K+</div>
+        <div class="metric-label">Benchmarks Downloads</div>
+        <div class="metric-icon">📊</div>
+      </div>
+    </div>
 
 
 > [**Google Scholar**🎓](https://scholar.google.com/citations?user=8S7ilV0AAAAJ&hl=en) &nbsp; • &nbsp; [**HuggingFace** 🤗](https://huggingface.co/Tadesse)

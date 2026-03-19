@@ -13,49 +13,47 @@ I received an MSc M.Sc in Computer Science from <a  href= "https://bit.bdu.edu.e
 B.Sc. in Information Technology from  <a href="https://wu.edu.et/"> Wollo University</a>, Kombolcha Institute of Technology, Ethiopia. I work on advancing language models for emotional intelligence, low-resource language understanding, cultural and linguistic representation, and speech recognition. More recently, I have begun exploring alignment and safety evaluations of large language models(LLMs) and broader modalities with VLMs.
 I am an active member of the <a  href= "https://www.masakhane.io/"> Masakhane</a> and <a  href= "https://ethionlp.github.io/">EthioNLP</a> NLP community.
 
----
-
 <div class="research-dashboard">
+  <!-- Combined Research Impact & Open Source Card -->
   <div class="dashboard-card combined-impact-card">
     <div class="dashboard-card-header">
-      <h3 class="dashboard-card-title">📈 Research Impact & Open Source Contributions</h3>
+      <div class="dashboard-icon research-impact-icon">📈</div>
+      <h3 class="dashboard-card-title">Research Impact & Open Source Contributions</h3>
     </div>
-    
     <div class="dashboard-card-content">
-      <table width="100%">
-        <tr>
-          <td align="left" style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px;">
-            <div style="font-size: 20px;"><b>2000+</b></div>
-            <div style="color: #586069;">Citations 📈</div>
-          </td>
-          <td align="left" style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px;">
-            <div style="font-size: 20px;"><b>13</b></div>
-            <div style="color: #586069;">h-index 🎓</div>
-          </td>
-          <td align="left" style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px;">
-            <div style="font-size: 20px;"><b>700K+</b></div>
-            <div style="color: #586069;">Models Downloads 🤖</div>
-          </td>
-          <td align="left" style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px;">
-            <div style="font-size: 20px;"><b>50K+</b></div>
-            <div style="color: #586069;">Benchmarks Downloads 📊</div>
-          </td>
-        </tr>
-      </table>
+      <div class="metric-card">
+        <div class="metric-value">2000+</div>
+        <div class="metric-label">Citations</div>
+        <div class="metric-icon">📈</div>
+      </div>
+      <div class="metric-card">
+        <div class="metric-value">13</div>
+        <div class="metric-label">h-index</div>
+        <div class="metric-icon">🎓</div>
+      </div>
+      <div class="metric-card">
+        <div class="metric-value">700K+</div>
+        <div class="metric-label">Models Downloads</div>
+        <div class="metric-icon">🤖</div>
+      </div>
+      <div class="metric-card">
+        <div class="metric-value">50K+</div>
+        <div class="metric-label">Benchmarks Downloads</div>
+        <div class="metric-icon">📊</div>
+      </div>
     </div>
-
-    <br>
-
-    <div class="dashboard-footer">
-      <p>
-        <a href="https://scholar.google.com/citations?user=8S7ilV0AAAAJ&hl=en">🎓 Google Scholar →</a> 
-        &nbsp; • &nbsp; 
-        <a href="https://huggingface.co/Tadesse">🤗 HuggingFace →</a>
-      </p>
+    <div class="dashboard-card-footer">
+      <a href="https://scholar.google.com/citations?user=XqPX5XcAAAAJ&hl=en" target="_blank" rel="noopener noreferrer" class="dashboard-link">
+        <img src="/images/logos/google-scholar.png" alt="Google Scholar" class="footer-logo" onerror="this.style.display='none';">
+        <span>Google Scholar</span> →
+      </a>
+      <span style="margin: 0 0.5em;">•</span>
+      <a href="https://huggingface.co/ahmed-masry" target="_blank" rel="noopener noreferrer" class="dashboard-link">
+        <img src="/images/logos/huggingface.png" alt="HuggingFace" class="footer-logo" onerror="this.style.display='none';">
+        <span>HuggingFace</span> →
+      </a>
     </div>
   </div>
-</div>
----
 
 ## 📚 Key Publications
 

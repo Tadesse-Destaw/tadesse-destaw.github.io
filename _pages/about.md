@@ -17,8 +17,8 @@ I am an active member of the <a  href= "https://www.masakhane.io/"> Masakhane</a
 
 ## 📈 Research Impact & Open Source Contributions
 
-| 📊 **450+** <br> Citations | 🎓 **10** <br> h-index | 🤖 **100K+** <br> Models Downloads | 📊 **50K+** <br> Benchmarks Downloads |
-| :---: | :---: | :---: | :---: |
+| 📊 **450+**  Citations | 🎓 **10**  h-index | 🤖 **100K+**  Models Downloads | 📊 **50K+**  Benchmarks Downloads |
+
 
 > [**Google Scholar**🎓](https://scholar.google.com/citations?user=8S7ilV0AAAAJ&hl=en) &nbsp; • &nbsp; [**HuggingFace** 🤗](https://huggingface.co/Tadesse)
 

@@ -28,14 +28,26 @@ B.Sc. in Information Technology from  <a href="https://wu.edu.et/"> Wollo Univer
 </div>
 
 ---
-<h1 class="bodytext"><b>News<a id="research"></a></b></h1>
+<h1 class="bodytext"><b>Recent News<a id="research"></a></b></h1>
 ---
 
-<div class="csc-header csc-header-n1">
-<ul>
-<li>Attended NLP Winter School at MBZUAI (Abu Dhabi, UAE) January 2026</li>
-<li>Paper accepted at NAACL 2025 conference,<a  href= "https://arxiv.org/abs/2411.05049"> ProverbEval: Exploring LLM Evaluation Challenges for Low-resource Language Understanding</a></li>
-<li>Paper accepted at COLING 2025, <a  href= "https://arxiv.org/abs/2412.17837">  Evaluating the Capabilities of Large Language Models for Multi-label Emotion Understanding</a></li>
-<!-- <li>Successfully conducted the "Summer School for Women in AI and Data Science" with others at <a href="https://www.aastu.edu.et/">AASTU</a>: <a  href= "https://medium.com/@seidymam/summer-school-for-women-in-ai-and-data-science-a56e847156d9">  Summer School for Women in AI and Data Science </a></li>-->
-</ul>
-</div>
+<table class="news-table">
+  <tbody>
+    <tr>
+      <td class="news-content-cell">Attended NLP Winter School at MBZUAI (Abu Dhabi, UAE)</td>
+      <td class="news-date-cell">January 2026</td>
+    </tr>
+    <tr>
+      <td class="news-content-cell">Paper accepted at LREC 2026 conference</td>
+      <td class="news-date-cell">February 2026</td>
+    </tr>
+    <tr>
+      <td class="news-content-cell">Paper accepted at EMNLP 2025 conference</td>
+      <td class="news-date-cell">November 2024</td>
+    </tr>
+    <tr>
+      <td class="news-content-cell">Paper accepted at ACL 2025 conference</td>
+      <td class="news-date-cell">July 2025</td>
+    </tr>
+  </tbody>
+</table>

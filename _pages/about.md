@@ -60,42 +60,58 @@ I am an active member of the <a  href= "https://www.masakhane.io/"> Masakhane</a
   </div>
 </div>
 
-## Work Experience
+<h2 style="margin-bottom: 10px;">Work Experience</h2>
 
-<table>
+<table border="0" style="border-collapse: collapse; width: 100%;">
+  
   <tr>
-    <td align="center" width="70"><img src="/images/companies/cohere.png" width="50"></td>
-    <td>
-      <strong><a href="https://www.abington.psu.edu/">Penn State</a></strong> <br> 
-      Intern of Technical Staff, Multimodal Foundations Team
+    <td width="60" style="padding: 10px 0; vertical-align: top;">
+      <a href="https://www.abington.psu.edu/">
+        <img src="/images/companies/cohere.png" width="50" style="border-radius: 10px;">
+      </a>
     </td>
-    <td align="right">
-      <code>Aug 2026 - Jan 2026</code> <br>
-      <em>Toronto, ON</em>
+    <td style="padding: 10px 15px; vertical-align: top;">
+      <strong style="font-size: 17px;"><a href="https://www.abington.psu.edu/" style="text-decoration: none; color: inherit;">Penn State</a></strong><br>
+      <span style="font-size: 14px;">Intern of Technical Staff, Multimodal Foundations Team</span>
+    </td>
+    <td align="right" style="padding: 10px 0; vertical-align: top; white-space: nowrap;">
+      <code style="font-size: 12px;">Aug 2026 - Jan 2026</code><br>
+      <em style="font-size: 13px; color: #8c959f;">Toronto, ON</em>
     </td>
   </tr>
+
   <tr>
-    <td align="center"><img src="/images/companies/mila.png" width="50"></td>
-    <td>
-      <strong><a href="https://mila.quebec/">Mila - Quebec AI Institute</a></strong> <br> 
-      Visiting Researcher, Host: <a href="https://mila.quebec/en/directory/aaron-courville">Aaron Courville</a>
+    <td width="60" style="padding: 10px 0; vertical-align: top;">
+      <a href="https://mila.quebec/">
+        <img src="/images/companies/mila.png" width="50" style="border-radius: 10px;">
+      </a>
     </td>
-    <td align="right">
-      <code>Sept 2025 - Dec 2025</code> <br>
-      <em>Montreal, QC</em>
+    <td style="padding: 10px 15px; vertical-align: top;">
+      <strong style="font-size: 17px;"><a href="https://mila.quebec/" style="text-decoration: none; color: inherit;">Mila - Quebec AI Institute</a></strong><br>
+      <span style="font-size: 14px;">Visiting Researcher, Host: <a href="https://mila.quebec/en/directory/aaron-courville">Aaron Courville</a></span>
+    </td>
+    <td align="right" style="padding: 10px 0; vertical-align: top; white-space: nowrap;">
+      <code style="font-size: 12px;">Sept 2025 - Dec 2025</code><br>
+      <em style="font-size: 13px; color: #8c959f;">Montreal, QC</em>
     </td>
   </tr>
+
   <tr>
-    <td align="center"><img src="/images/companies/servicenow.png" width="50"></td>
-    <td>
-      <strong><a href="https://www.servicenow.com/research/">ServiceNow Research</a></strong> <br> 
-      Visiting Researcher, Host: <a href="https://sairajeswar.com/">Sai Rajeswar</a>
+    <td width="60" style="padding: 10px 0; vertical-align: top;">
+      <a href="https://www.servicenow.com/research/">
+        <img src="/images/companies/servicenow.png" width="50" style="border-radius: 10px;">
+      </a>
     </td>
-    <td align="right">
-      <code>Sept 2024 - July 2025</code> <br>
-      <em>Montreal, QC</em>
+    <td style="padding: 10px 15px; vertical-align: top;">
+      <strong style="font-size: 17px;"><a href="https://www.servicenow.com/research/" style="text-decoration: none; color: inherit;">ServiceNow Research</a></strong><br>
+      <span style="font-size: 14px;">Visiting Researcher, Host: <a href="https://sairajeswar.com/">Sai Rajeswar</a></span>
+    </td>
+    <td align="right" style="padding: 10px 0; vertical-align: top; white-space: nowrap;">
+      <code style="font-size: 12px;">Sept 2024 - July 2025</code><br>
+      <em style="font-size: 13px; color: #8c959f;">Montreal, QC</em>
     </td>
   </tr>
+
 </table>
 ---
 <h1 class="bodytext"><b>Recent News<a id="research"></a></b></h1>

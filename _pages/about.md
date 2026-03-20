@@ -22,7 +22,7 @@ I am an active member of the <a  href= "https://www.masakhane.io/"> Masakhane</a
       <table width="100%" style="border-collapse: separate; border-spacing: 10px 0;">
         <tr>
           <td width="25%" style="border: 1px solid #f0f0f0; border-radius: 4px; padding: 10px; background: #fafbfc;">
-            <div style="font-size: 20px;"><b>2000+</b></div>
+            <div style="font-size: 20px;"><b>450+</b></div>
             <div style="color: #586069; font-size: 12px;">Citations 📈</div>
           </td>
           <td width="25%" style="border: 1px solid #f0f0f0; border-radius: 4px; padding: 10px; background: #fafbfc;">
@@ -40,8 +40,7 @@ I am an active member of the <a  href= "https://www.masakhane.io/"> Masakhane</a
         </tr>
       </table>
     </div>
-
-    <div class="dashboard-card-footer" style="margin-top: 15px; font-size: 14px;">
+    <div class="dashboard-card-footer" style="margin-top: 5px; font-size: 14px;">
       <a href="https://scholar.google.com/citations?user=XqPX5XcAAAAJ&hl=en">🎓 Google Scholar →</a>
       <span style="margin: 0 10px; color: #e1e4e8;">•</span>
       <a href="https://huggingface.co/ahmed-masry">🤗 HuggingFace →</a>

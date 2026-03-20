@@ -124,7 +124,6 @@ I am an active member of the <a  href= "https://www.masakhane.io/"> Masakhane</a
 
 ---
 <h2 style="margin-bottom: 20px;">Recent News</h2>
----
 <table class="news-table">
   <tbody>
     <tr>

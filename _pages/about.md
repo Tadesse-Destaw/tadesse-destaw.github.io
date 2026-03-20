@@ -58,138 +58,141 @@ I am an active member of the <a  href= "https://www.masakhane.io/"> Masakhane</a
 
 </div>
 
-Work Experience
-======
+<h2 style="margin-bottom: 10px;">Work Experience</h2>
 
-<table class="work-experience-table">
-  <tbody>
-    <!-- Cohere -->
-    <tr>
-      <td class="work-logo-cell" rowspan="2">
-        <div class="work-logo">
-          <a href="https://cohere.com/" target="_blank">
-            <img src="/images/companies/cohere.png" alt="Cohere" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
-            <span class="work-logo-fallback" style="display: none;">C</span>
-          </a>
-        </div>
-      </td>
-      <td class="work-company-cell">
-        <h3 class="work-company">
-          <a href="https://cohere.com/" target="_blank">Cohere</a>
-        </h3>
-      </td>
-      <td class="work-period-cell">
-        <span class="work-period">Jan 2026 - Present</span>
-      </td>
-    </tr>
-    <tr>
-      <td class="work-title-cell">
-        <span class="work-title">Intern of Technical Staff, Multimodal Foundations Team</span>
-      </td>
-      <td class="work-location-cell">
-        <span class="work-location">Toronto, Ontario</span>
-      </td>
-    </tr>
-    
-    <!-- Separator -->
-    <tr class="work-item-separator">
-      <td colspan="3"></td>
-    </tr>
-    
-    <!-- Mila -->
-    <tr>
-      <td class="work-logo-cell" rowspan="2">
-        <div class="work-logo">
-          <a href="https://mila.quebec/" target="_blank">
-            <img src="/images/companies/mila.png" alt="Mila">
-          </a>
-        </div>
-      </td>
-      <td class="work-company-cell">
-        <h3 class="work-company">
-          <a href="https://mila.quebec/" target="_blank">Mila - Quebec AI Institute</a>
-        </h3>
-      </td>
-      <td class="work-period-cell">
-        <span class="work-period">Sept 2025 - Dec 2025</span>
-      </td>
-    </tr>
-    <tr>
-      <td class="work-title-cell">
-        <span class="work-title">Visiting Researcher, Host: <a href="https://mila.quebec/en/directory/aaron-courville" target="_blank" rel="noopener noreferrer">Aaron Courville</a></span>
-      </td>
-      <td class="work-location-cell">
-        <span class="work-location">Montreal, Quebec</span>
-      </td>
-    </tr>
-    
-    <!-- Separator -->
-    <tr class="work-item-separator">
-      <td colspan="3"></td>
-    </tr>
-    
-    <!-- ServiceNow -->
-    <tr>
-      <td class="work-logo-cell" rowspan="2">
-        <div class="work-logo">
-          <a href="https://www.servicenow.com/research/" target="_blank">
-            <img src="/images/companies/servicenow.png" alt="ServiceNow">
-          </a>
-        </div>
-      </td>
-      <td class="work-company-cell">
-        <h3 class="work-company">
-          <a href="https://www.servicenow.com/research/" target="_blank">ServiceNow Research</a>
-        </h3>
-      </td>
-      <td class="work-period-cell">
-        <span class="work-period">Sept 2024 - July 2025</span>
-      </td>
-    </tr>
-    <tr>
-      <td class="work-title-cell">
-        <span class="work-title">Visiting Researcher, Host: <a href="https://sairajeswar.com/" target="_blank" rel="noopener noreferrer">Sai Rajeswar</a></span>
-      </td>
-      <td class="work-location-cell">
-        <span class="work-location">Montreal, Quebec</span>
-      </td>
-    </tr>
-    
-    <!-- Separator -->
-    <tr class="work-item-separator">
-      <td colspan="3"></td>
-    </tr>
-    
-    <!-- Arteria AI -->
-    <tr>
-      <td class="work-logo-cell" rowspan="2">
-        <div class="work-logo">
-          <a href="https://www.arteria.ai/" target="_blank">
-            <img src="/images/companies/arteria.png" alt="Arteria AI">
-          </a>
-        </div>
-      </td>
-      <td class="work-company-cell">
-        <h3 class="work-company">
-          <a href="https://www.arteria.ai/" target="_blank">Arteria AI</a>
-        </h3>
-      </td>
-      <td class="work-period-cell">
-        <span class="work-period">May 2022 - Sept 2024</span>
-      </td>
-    </tr>
-    <tr>
-      <td class="work-title-cell">
-        <span class="work-title">Senior Data Scientist (Promoted in Jan 2024)</span>
-      </td>
-      <td class="work-location-cell">
-        <span class="work-location">Toronto, Ontario</span>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div style="display: flex; flex-direction: column; gap: 20px;">
 
-<br />
+  <!-- Cohere -->
+  <div style="display: flex; gap: 15px; align-items: flex-start;">
+    
+    <!-- Logo -->
+    <div style="width:60px; height:60px; border-radius:12px; background:#f6f8fa; display:flex; align-items:center; justify-content:center;">
+      <img src="/images/companies/cohere.png" style="max-width:40px;">
+    </div>
+
+    <!-- Content -->
+    <div style="flex:1;">
+      
+      <!-- Top row -->
+      <div style="display:flex; justify-content:space-between; align-items:center;">
+        <h3 style="margin:0; font-size:18px;">
+          <a href="https://cohere.com/" target="_blank" style="text-decoration:none; color:#24292f;">Cohere</a>
+        </h3>
+        <span style="background:#f6f8fa; padding:5px 10px; border-radius:8px; font-size:12px;">
+          Jan 2026 - Present
+        </span>
+      </div>
+
+      <!-- Bottom row -->
+      <div style="display:flex; justify-content:space-between; margin-top:5px;">
+        <span style="font-size:14px; color:#24292f;">
+          Intern of Technical Staff, Multimodal Foundations Team
+        </span>
+        <span style="font-size:13px; color:#8c959f; font-style:italic;">
+          Toronto, Ontario
+        </span>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Mila -->
+  <div style="display: flex; gap: 15px; align-items: flex-start;">
+    
+    <div style="width:60px; height:60px; border-radius:12px; background:#f6f8fa; display:flex; align-items:center; justify-content:center;">
+      <img src="/images/companies/mila.png" style="max-width:40px;">
+    </div>
+
+    <div style="flex:1;">
+      <div style="display:flex; justify-content:space-between; align-items:center;">
+        <h3 style="margin:0; font-size:18px;">
+          <a href="https://mila.quebec/" target="_blank" style="text-decoration:none; color:#24292f;">
+            Mila - Quebec AI Institute
+          </a>
+        </h3>
+        <span style="background:#f6f8fa; padding:5px 10px; border-radius:8px; font-size:12px;">
+          Sept 2025 - Dec 2025
+        </span>
+      </div>
+
+      <div style="display:flex; justify-content:space-between; margin-top:5px;">
+        <span style="font-size:14px;">
+          Visiting Researcher, Host: 
+          <a href="https://mila.quebec/en/directory/aaron-courville" target="_blank">
+            Aaron Courville
+          </a>
+        </span>
+        <span style="font-size:13px; color:#8c959f; font-style:italic;">
+          Montreal, Quebec
+        </span>
+      </div>
+    </div>
+  </div>
+
+  <!-- ServiceNow -->
+  <div style="display: flex; gap: 15px; align-items: flex-start;">
+    
+    <div style="width:60px; height:60px; border-radius:12px; background:#f6f8fa; display:flex; align-items:center; justify-content:center;">
+      <img src="/images/companies/servicenow.png" style="max-width:40px;">
+    </div>
+
+    <div style="flex:1;">
+      <div style="display:flex; justify-content:space-between; align-items:center;">
+        <h3 style="margin:0; font-size:18px;">
+          <a href="https://www.servicenow.com/research/" target="_blank" style="text-decoration:none; color:#24292f;">
+            ServiceNow Research
+          </a>
+        </h3>
+        <span style="background:#f6f8fa; padding:5px 10px; border-radius:8px; font-size:12px;">
+          Sept 2024 - July 2025
+        </span>
+      </div>
+
+      <div style="display:flex; justify-content:space-between; margin-top:5px;">
+        <span style="font-size:14px;">
+          Visiting Researcher, Host: 
+          <a href="https://sairajeswar.com/" target="_blank">
+            Sai Rajeswar
+          </a>
+        </span>
+        <span style="font-size:13px; color:#8c959f; font-style:italic;">
+          Montreal, Quebec
+        </span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Arteria -->
+  <div style="display: flex; gap: 15px; align-items: flex-start;">
+    
+    <div style="width:60px; height:60px; border-radius:12px; background:#f6f8fa; display:flex; align-items:center; justify-content:center;">
+      <img src="/images/companies/arteria.png" style="max-width:40px;">
+    </div>
+
+    <div style="flex:1;">
+      <div style="display:flex; justify-content:space-between; align-items:center;">
+        <h3 style="margin:0; font-size:18px;">
+          <a href="https://www.arteria.ai/" target="_blank" style="text-decoration:none; color:#24292f;">
+            Arteria AI
+          </a>
+        </h3>
+        <span style="background:#f6f8fa; padding:5px 10px; border-radius:8px; font-size:12px;">
+          May 2022 - Sept 2024
+        </span>
+      </div>
+
+      <div style="display:flex; justify-content:space-between; margin-top:5px;">
+        <span style="font-size:14px;">
+          Senior Data Scientist (Promoted in Jan 2024)
+        </span>
+        <span style="font-size:13px; color:#8c959f; font-style:italic;">
+          Toronto, Ontario
+        </span>
+      </div>
+    </div>
+  </div>
+
+</div>
 
 ---
 <h1 class="bodytext"><b>Recent News<a id="research"></a></b></h1>

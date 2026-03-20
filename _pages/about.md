@@ -66,8 +66,11 @@ I am an active member of the <a  href= "https://www.masakhane.io/"> Masakhane</a
   <div style="display: flex; gap: 15px; align-items: flex-start;">
     
     <!-- Logo -->
-    <div style="width:60px; height:60px; border-radius:12px; background:#f6f8fa; display:flex; align-items:center; justify-content:center;">
-      <img src="/images/companies/cohere.png" style="max-width:40px;">
+<div 
+  style="width:60px; height:60px; border-radius:12px; background:#f6f8fa; display:flex; align-items:center; justify-content:center; transition: all 0.2s ease;"
+  onmouseover="this.style.transform='scale(1.08)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)';"
+  onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"
+>
     </div>
 
     <!-- Content -->

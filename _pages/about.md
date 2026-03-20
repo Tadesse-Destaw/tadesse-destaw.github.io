@@ -14,7 +14,7 @@ B.Sc. in Information Technology from  <a href="https://wu.edu.et/"> Wollo Univer
 I am an active member of the <a  href= "https://www.masakhane.io/"> Masakhane</a> and <a  href= "https://ethionlp.github.io/">EthioNLP</a> NLP community.
 
 <div class="research-dashboard">
-  <div class="dashboard-card combined-impact-card" style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px; margin-bottom: 15px;">
+  <div class="dashboard-card combined-impact-card" style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px; margin-bottom: 5px;">
     <div class="dashboard-card-header" style="display: flex; align-items: center; margin-bottom: 10px;">
       <h3 class="dashboard-card-title">📈 Research Impact & Open Source Contributions</h3>
     </div>

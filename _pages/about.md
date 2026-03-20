@@ -60,149 +60,43 @@ I am an active member of the <a  href= "https://www.masakhane.io/"> Masakhane</a
   </div>
 </div>
 
+## Work Experience
 
-<!--Work experiance-->
-<h2 style="margin-bottom: 10px;">Work Experience</h2>
-<div style="display: flex; flex-direction: column; gap: 20px;">
-  <!-- Cohere -->
-  <div style="display: flex; gap: 15px; align-items: flex-start;">
-<div 
-  style="width:60px; height:60px; border-radius:12px; background:#f6f8fa; display:flex; align-items:center; justify-content:center; transition: all 0.2s ease;"
-  onmouseover="this.style.transform='scale(1.08)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)';"
-  onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">      
-  <img src="/images/companies/cohere.png" style="max-width:40px;">
-    </div>
-
-    <!-- Content -->
-    <div style="flex:1;">
-      
-      <!-- Top row -->
-      <div style="display:flex; justify-content:space-between; align-items:center;">
-        <h3 style="margin:0; font-size:18px;">
-        <a href="https://www.abington.psu.edu/" target="_blank" style="text-decoration:none; color:#24292f;">Penn State</a>
-        </h3>
-        <span style="background:#f6f8fa; padding:5px 10px; border-radius:8px; font-size:12px;">
-          Aug 2026 - Jan 2026
-        </span>
-      </div>
-
-      <!-- Bottom row -->
-      <div style="display:flex; justify-content:space-between; margin-top:5px;">
-        <span style="font-size:14px; color:#24292f;">
-          Intern of Technical Staff, Multimodal Foundations Team
-        </span>
-        <span style="font-size:13px; color:#8c959f; font-style:italic;">
-          Toronto, Ontario
-        </span>
-      </div>
-
-    </div>
-  </div>
-
-  <!-- Mila -->
-  <div style="display: flex; gap: 15px; align-items: flex-start;">
-    
-<div 
-  style="width:60px; height:60px; border-radius:12px; background:#f6f8fa; display:flex; align-items:center; justify-content:center; transition: all 0.2s ease;"
-  onmouseover="this.style.transform='scale(1.08)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)';"
-  onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"> 
-  <img src="/images/companies/mila.png" style="max-width:40px;">
-    </div>
-
-    <div style="flex:1;">
-      <div style="display:flex; justify-content:space-between; align-items:center;">
-        <h3 style="margin:0; font-size:18px;">
-          <a href="https://mila.quebec/" target="_blank" style="text-decoration:none; color:#24292f;">
-            Mila - Quebec AI Institute
-          </a>
-        </h3>
-        <span style="background:#f6f8fa; padding:5px 10px; border-radius:8px; font-size:12px;">
-          Sept 2025 - Dec 2025
-        </span>
-      </div>
-
-      <div style="display:flex; justify-content:space-between; margin-top:5px;">
-        <span style="font-size:14px;">
-          Visiting Researcher, Host: 
-          <a href="https://mila.quebec/en/directory/aaron-courville" target="_blank">
-            Aaron Courville
-          </a>
-        </span>
-        <span style="font-size:13px; color:#8c959f; font-style:italic;">
-          Montreal, Quebec
-        </span>
-      </div>
-    </div>
-  </div>
-
-  <!-- ServiceNow -->
-  <div style="display: flex; gap: 15px; align-items: flex-start;">
-    
-<div 
-  style="width:60px; height:60px; border-radius:12px; background:#f6f8fa; display:flex; align-items:center; justify-content:center; transition: all 0.2s ease;"
-  onmouseover="this.style.transform='scale(1.08)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)';"
-  onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"> 
-  <img src="/images/companies/servicenow.png" style="max-width:40px;">
-    </div>
-
-    <div style="flex:1;">
-      <div style="display:flex; justify-content:space-between; align-items:center;">
-        <h3 style="margin:0; font-size:18px;">
-          <a href="https://www.servicenow.com/research/" target="_blank" style="text-decoration:none; color:#24292f;">
-            ServiceNow Research
-          </a>
-        </h3>
-        <span style="background:#f6f8fa; padding:5px 10px; border-radius:8px; font-size:12px;">
-          Sept 2024 - July 2025
-        </span>
-      </div>
-
-      <div style="display:flex; justify-content:space-between; margin-top:5px;">
-        <span style="font-size:14px;">
-          Visiting Researcher, Host: 
-          <a href="https://sairajeswar.com/" target="_blank">
-            Sai Rajeswar
-          </a>
-        </span>
-        <span style="font-size:13px; color:#8c959f; font-style:italic;">
-          Montreal, Quebec
-        </span>
-      </div>
-    </div>
-  </div>
-
-  <!-- Arteria -->
-  <div style="display: flex; gap: 15px; align-items: flex-start;">
-    
-    <div style="width:60px; height:60px; border-radius:12px; background:#f6f8fa; display:flex; align-items:center; justify-content:center;">
-      <img src="/images/companies/arteria.png" style="max-width:40px;">
-    </div>
-
-    <div style="flex:1;">
-      <div style="display:flex; justify-content:space-between; align-items:center;">
-        <h3 style="margin:0; font-size:18px;">
-          <a href="https://www.arteria.ai/" target="_blank" style="text-decoration:none; color:#24292f;">
-            Arteria AI
-          </a>
-        </h3>
-        <span style="background:#f6f8fa; padding:5px 10px; border-radius:8px; font-size:12px;">
-          May 2022 - Sept 2024
-        </span>
-      </div>
-
-      <div style="display:flex; justify-content:space-between; margin-top:5px;">
-        <span style="font-size:14px;">
-          Senior Data Scientist (Promoted in Jan 2024)
-        </span>
-        <span style="font-size:13px; color:#8c959f; font-style:italic;">
-          Toronto, Ontario
-        </span>
-      </div>
-    </div>
-  </div>
-
-</div>
-
+<table>
+  <tr>
+    <td align="center" width="70"><img src="/images/companies/cohere.png" width="50"></td>
+    <td>
+      <strong><a href="https://www.abington.psu.edu/">Penn State</a></strong> <br> 
+      Intern of Technical Staff, Multimodal Foundations Team
+    </td>
+    <td align="right">
+      <code>Aug 2026 - Jan 2026</code> <br>
+      <em>Toronto, ON</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><img src="/images/companies/mila.png" width="50"></td>
+    <td>
+      <strong><a href="https://mila.quebec/">Mila - Quebec AI Institute</a></strong> <br> 
+      Visiting Researcher, Host: <a href="https://mila.quebec/en/directory/aaron-courville">Aaron Courville</a>
+    </td>
+    <td align="right">
+      <code>Sept 2025 - Dec 2025</code> <br>
+      <em>Montreal, QC</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><img src="/images/companies/servicenow.png" width="50"></td>
+    <td>
+      <strong><a href="https://www.servicenow.com/research/">ServiceNow Research</a></strong> <br> 
+      Visiting Researcher, Host: <a href="https://sairajeswar.com/">Sai Rajeswar</a>
+    </td>
+    <td align="right">
+      <code>Sept 2024 - July 2025</code> <br>
+      <em>Montreal, QC</em>
+    </td>
+  </tr>
+</table>
 ---
 <h1 class="bodytext"><b>Recent News<a id="research"></a></b></h1>
 ---

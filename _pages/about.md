@@ -60,13 +60,14 @@ I am an active member of the <a  href= "https://www.masakhane.io/"> Masakhane</a
   </div>
 </div>
 
-<h2 style="margin-bottom: 20px;">Work Experience</h2>
 
+<!--Work Experience-->
+<h2 style="margin-bottom: 20px;">Work Experience</h2>
 <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; width: 100%; margin-bottom: 20px;">
   <tr style="border: none;">
     <td align="center" width="60" style="border: none; padding: 0; vertical-align: middle;">
       <a href="https://www.abington.psu.edu/">
-        <img src="/images/companies/cohere.png" width="50" style="border-radius: 12px; display: block;">
+        <img src="/images/companies/pennstate.png" width="50" style="border-radius: 12px; display: block;">
       </a>
     </td>
     <td style="border: none; padding-left: 15px; vertical-align: middle;">
@@ -75,8 +76,8 @@ I am an active member of the <a  href= "https://www.masakhane.io/"> Masakhane</a
         <code style="font-size: 12px;">Aug 2026 - Jan 2026</code>
       </div>
       <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 2px;">
-        <span style="font-size: 14px; color: #24292f;">Intern of Technical Staff, Multimodal Foundations Team</span>
-        <em style="font-size: 12px; color: #8c959f;">Toronto, ON</em>
+        <span style="font-size: 14px; color: #24292f;">Visiting Researcher</span>
+        <em style="font-size: 12px; color: #8c959f;">Philadelphia, PA</em>
       </div>
     </td>
   </tr>

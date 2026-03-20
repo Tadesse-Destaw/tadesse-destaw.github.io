@@ -62,38 +62,53 @@ I am an active member of the <a  href= "https://www.masakhane.io/"> Masakhane</a
 
 <h2 style="margin-bottom: 10px;">Work Experience</h2>
 
-<p align="left">
+<div style="overflow: hidden; margin-bottom: 20px;">
   <a href="https://www.abington.psu.edu/">
     <img src="/images/companies/cohere.png" width="55" align="left" style="margin-right: 15px; border-radius: 12px;">
   </a>
-  <code align="right" style="float: right;">Aug 2026 - Jan 2026</code>
+  <div align="right" style="float: right;">
+    <code>Aug 2026 - Jan 2026</code><br>
+    <em style="font-size: 13px; color: #8c959f;">Toronto, ON</em>
+  </div>
   <strong><a href="https://www.abington.psu.edu/" style="text-decoration: none; color: inherit;">Penn State</a></strong><br>
-  Intern of Technical Staff, Multimodal Foundations Team <br>
-  <em style="font-size: 13px; color: #8c959f;">Toronto, ON</em>
-</p>
-<br clear="left"/>
+  <span style="font-size: 14px;">Intern of Technical Staff, Multimodal Foundations Team</span>
+</div>
 
-<p align="left">
+<div style="overflow: hidden; margin-bottom: 20px;">
   <a href="https://mila.quebec/">
     <img src="/images/companies/mila.png" width="55" align="left" style="margin-right: 15px; border-radius: 12px;">
   </a>
-  <code align="right" style="float: right;">Sept 2025 - Dec 2025</code>
+  <div align="right" style="float: right;">
+    <code>Sept 2025 - Dec 2025</code><br>
+    <em style="font-size: 13px; color: #8c959f;">Montreal, QC</em>
+  </div>
   <strong><a href="https://mila.quebec/" style="text-decoration: none; color: inherit;">Mila - Quebec AI Institute</a></strong><br>
-  Visiting Researcher, Host: <a href="https://mila.quebec/en/directory/aaron-courville">Aaron Courville</a> <br>
-  <em style="font-size: 13px; color: #8c959f;">Montreal, QC</em>
-</p>
-<br clear="left"/>
+  <span style="font-size: 14px;">Visiting Researcher, Host: <a href="https://mila.quebec/en/directory/aaron-courville">Aaron Courville</a></span>
+</div>
 
-<p align="left">
+<div style="overflow: hidden; margin-bottom: 20px;">
   <a href="https://www.servicenow.com/research/">
     <img src="/images/companies/servicenow.png" width="55" align="left" style="margin-right: 15px; border-radius: 12px;">
   </a>
-  <code align="right" style="float: right;">Sept 2024 - July 2025</code>
+  <div align="right" style="float: right;">
+    <code>Sept 2024 - July 2025</code><br>
+    <em style="font-size: 13px; color: #8c959f;">Montreal, QC</em>
+  </div>
   <strong><a href="https://www.servicenow.com/research/" style="text-decoration: none; color: inherit;">ServiceNow Research</a></strong><br>
-  Visiting Researcher, Host: <a href="https://sairajeswar.com/">Sai Rajeswar</a> <br>
-  <em style="font-size: 13px; color: #8c959f;">Montreal, QC</em>
-</p>
-<br clear="left"/>
+  <span style="font-size: 14px;">Visiting Researcher, Host: <a href="https://sairajeswar.com/">Sai Rajeswar</a></span>
+</div>
+
+<div style="overflow: hidden; margin-bottom: 20px;">
+  <a href="https://www.arteria.ai/">
+    <img src="/images/companies/arteria.png" width="55" align="left" style="margin-right: 15px; border-radius: 12px;">
+  </a>
+  <div align="right" style="float: right;">
+    <code>May 2022 - Sept 2024</code><br>
+    <em style="font-size: 13px; color: #8c959f;">Toronto, ON</em>
+  </div>
+  <strong><a href="https://www.arteria.ai/" style="text-decoration: none; color: inherit;">Arteria AI</a></strong><br>
+  <span style="font-size: 14px;">Senior Data Scientist (Promoted Jan 2024)</span>
+</div>
 ---
 <h1 class="bodytext"><b>Recent News<a id="research"></a></b></h1>
 ---

@@ -72,7 +72,7 @@ I am an active member of the <a  href= "https://www.masakhane.io/"> Masakhane</a
     </td>
     <td style="border: none; padding-left: 15px; vertical-align: middle;">
       <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-        <strong><a href="https://www.abington.psu.edu/" style="text-decoration: none; color: inherit; font-size: 17px;">Penn State</a></strong>
+        <strong><a href="https://www.abington.psu.edu/" style="color: inherit; font-size: 17px;">Penn State</a></strong>
         <code style="font-size: 14px;">Aug 2026 - Jan 2026</code>
       </div>
       <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 2px;">

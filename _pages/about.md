@@ -60,55 +60,67 @@ I am an active member of the <a  href= "https://www.masakhane.io/"> Masakhane</a
   </div>
 </div>
 
-<h2 style="margin-bottom: 10px;">Work Experience</h2>
+<h2 style="margin-bottom: 20px;">Work Experience</h2>
 
-<div style="overflow: hidden; margin-bottom: 20px;">
-  <a href="https://www.abington.psu.edu/">
-    <img src="/images/companies/cohere.png" width="55" align="left" style="margin-right: 15px; border-radius: 12px;">
-  </a>
-  <div align="right" style="float: right;">
-    <code>Aug 2026 - Jan 2026</code><br>
-    <em style="font-size: 13px; color: #8c959f;">Toronto, ON</em>
-  </div>
-  <strong><a href="https://www.abington.psu.edu/" style="text-decoration: none; color: inherit;">Penn State</a></strong><br>
-  <span style="font-size: 14px;">Intern of Technical Staff, Multimodal Foundations Team</span>
-</div>
+<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; width: 100%; margin-bottom: 20px;">
+  <tr style="border: none;">
+    <td align="center" width="60" style="border: none; padding: 0; vertical-align: middle;">
+      <a href="https://www.abington.psu.edu/">
+        <img src="/images/companies/cohere.png" width="50" style="border-radius: 12px; display: block;">
+      </a>
+    </td>
+    <td style="border: none; padding-left: 15px; vertical-align: middle;">
+      <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+        <strong><a href="https://www.abington.psu.edu/" style="text-decoration: none; color: inherit; font-size: 17px;">Penn State</a></strong>
+        <code style="font-size: 12px;">Aug 2026 - Jan 2026</code>
+      </div>
+      <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 2px;">
+        <span style="font-size: 14px; color: #24292f;">Intern of Technical Staff, Multimodal Foundations Team</span>
+        <em style="font-size: 12px; color: #8c959f;">Toronto, ON</em>
+      </div>
+    </td>
+  </tr>
+</table>
 
-<div style="overflow: hidden; margin-bottom: 20px;">
-  <a href="https://mila.quebec/">
-    <img src="/images/companies/mila.png" width="55" align="left" style="margin-right: 15px; border-radius: 12px;">
-  </a>
-  <div align="right" style="float: right;">
-    <code>Sept 2025 - Dec 2025</code><br>
-    <em style="font-size: 13px; color: #8c959f;">Montreal, QC</em>
-  </div>
-  <strong><a href="https://mila.quebec/" style="text-decoration: none; color: inherit;">Mila - Quebec AI Institute</a></strong><br>
-  <span style="font-size: 14px;">Visiting Researcher, Host: <a href="https://mila.quebec/en/directory/aaron-courville">Aaron Courville</a></span>
-</div>
+<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; width: 100%; margin-bottom: 20px;">
+  <tr style="border: none;">
+    <td align="center" width="60" style="border: none; padding: 0; vertical-align: middle;">
+      <a href="https://mila.quebec/">
+        <img src="/images/companies/mila.png" width="50" style="border-radius: 12px; display: block;">
+      </a>
+    </td>
+    <td style="border: none; padding-left: 15px; vertical-align: middle;">
+      <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+        <strong><a href="https://mila.quebec/" style="text-decoration: none; color: inherit; font-size: 17px;">Mila - Quebec AI Institute</a></strong>
+        <code style="font-size: 12px;">Sept 2025 - Dec 2025</code>
+      </div>
+      <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 2px;">
+        <span style="font-size: 14px; color: #24292f;">Visiting Researcher, Host: Aaron Courville</span>
+        <em style="font-size: 12px; color: #8c959f;">Montreal, QC</em>
+      </div>
+    </td>
+  </tr>
+</table>
 
-<div style="overflow: hidden; margin-bottom: 20px;">
-  <a href="https://www.servicenow.com/research/">
-    <img src="/images/companies/servicenow.png" width="55" align="left" style="margin-right: 15px; border-radius: 12px;">
-  </a>
-  <div align="right" style="float: right;">
-    <code>Sept 2024 - July 2025</code><br>
-    <em style="font-size: 13px; color: #8c959f;">Montreal, QC</em>
-  </div>
-  <strong><a href="https://www.servicenow.com/research/" style="text-decoration: none; color: inherit;">ServiceNow Research</a></strong><br>
-  <span style="font-size: 14px;">Visiting Researcher, Host: <a href="https://sairajeswar.com/">Sai Rajeswar</a></span>
-</div>
-
-<div style="overflow: hidden; margin-bottom: 20px;">
-  <a href="https://www.arteria.ai/">
-    <img src="/images/companies/arteria.png" width="55" align="left" style="margin-right: 15px; border-radius: 12px;">
-  </a>
-  <div align="right" style="float: right;">
-    <code>May 2022 - Sept 2024</code><br>
-    <em style="font-size: 13px; color: #8c959f;">Toronto, ON</em>
-  </div>
-  <strong><a href="https://www.arteria.ai/" style="text-decoration: none; color: inherit;">Arteria AI</a></strong><br>
-  <span style="font-size: 14px;">Senior Data Scientist (Promoted Jan 2024)</span>
-</div>
+<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; width: 100%; margin-bottom: 20px;">
+  <tr style="border: none;">
+    <td align="center" width="60" style="border: none; padding: 0; vertical-align: middle;">
+      <a href="https://www.servicenow.com/research/">
+        <img src="/images/companies/servicenow.png" width="50" style="border-radius: 12px; display: block;">
+      </a>
+    </td>
+    <td style="border: none; padding-left: 15px; vertical-align: middle;">
+      <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+        <strong><a href="https://www.servicenow.com/research/" style="text-decoration: none; color: inherit; font-size: 17px;">ServiceNow Research</a></strong>
+        <code style="font-size: 12px;">Sept 2024 - July 2025</code>
+      </div>
+      <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 2px;">
+        <span style="font-size: 14px; color: #24292f;">Visiting Researcher, Host: Sai Rajeswar</span>
+        <em style="font-size: 12px; color: #8c959f;">Montreal, QC</em>
+      </div>
+    </td>
+  </tr>
+</table>
 ---
 <h1 class="bodytext"><b>Recent News<a id="research"></a></b></h1>
 ---

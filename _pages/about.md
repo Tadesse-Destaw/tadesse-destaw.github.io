@@ -82,7 +82,6 @@ I am an active member of the <a  href= "https://www.masakhane.io/"> Masakhane</a
     </td>
   </tr>
 </table>
-
 <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; width: 100%; margin-bottom: 20px;">
   <tr style="border: none;">
     <td align="center" width="60" style="border: none; padding: 0; vertical-align: middle;">
@@ -102,30 +101,30 @@ I am an active member of the <a  href= "https://www.masakhane.io/"> Masakhane</a
     </td>
   </tr>
 </table>
-
 <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; width: 100%; margin-bottom: 20px;">
   <tr style="border: none;">
     <td align="center" width="60" style="border: none; padding: 0; vertical-align: middle;">
-      <a href="https://www.servicenow.com/research/">
-        <img src="/images/companies/servicenow.png" width="50" style="border-radius: 12px; display: block;">
+      <a href="https://opennlplabs.org/">
+        <img src="/images/companies/opennlplabs.png" width="60" height="60" style="border: 1px solid #d0d7de; border-radius: 4px; padding: 4px; display: block;">
       </a>
     </td>
     <td style="border: none; padding-left: 15px; vertical-align: middle;">
       <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-        <strong><a href="https://www.servicenow.com/research/" style="text-decoration: none; color: inherit; font-size: 17px;">ServiceNow Research</a></strong>
-        <code style="font-size: 12px;">Sept 2024 - July 2025</code>
+        <strong><a href="https://opennlplabs.org/" style="text-decoration: none; color: inherit; font-size: 17px;">OpenNLP Labs</a></strong>
+        <code style="font-size: 14px;">Feb 2025 - Jul 2025</code>
       </div>
       <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 2px;">
-        <span style="font-size: 14px; color: #24292f;">Visiting Researcher, Host: Sai Rajeswar</span>
-        <em style="font-size: 12px; color: #8c959f;">Montreal, QC</em>
+        <span style="font-size: 14px; color: #24292f;">AI Engineer</span>
+        <em style="font-size: 12px; color: #8c959f;">Vertual</em>
       </div>
     </td>
   </tr>
 </table>
+
+
 ---
 <h1 class="bodytext"><b>Recent News<a id="research"></a></b></h1>
 ---
-
 <table class="news-table">
   <tbody>
     <tr>

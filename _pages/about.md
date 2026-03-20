@@ -29,11 +29,11 @@ I am an active member of the <a  href= "https://www.masakhane.io/"> Masakhane</a
         <div style="color: #586069; font-size: 12px;">h-index 🎓</div>
       </div>
       <div style="flex: 1 1 22%; border: 1px solid #f0f0f0; border-radius: 4px; padding: 10px; background: #fafbfc;">
-        <div style="font-size: 20px;"><b>100K+</b></div>
+        <div style="font-size: 20px;"><b>100+</b></div>
         <div style="color: #586069; font-size: 12px;">Models Downloads 🤖</div>
       </div>
       <div style="flex: 1 1 22%; border: 1px solid #f0f0f0; border-radius: 4px; padding: 10px; background: #fafbfc;">
-        <div style="font-size: 20px;"><b>10K+</b></div>
+        <div style="font-size: 20px;"><b>100+</b></div>
         <div style="color: #586069; font-size: 12px;">Benchmarks Downloads 📊</div>
       </div>
     </div>
@@ -123,7 +123,7 @@ I am an active member of the <a  href= "https://www.masakhane.io/"> Masakhane</a
 
 
 ---
-<h1 class="bodytext"><b>Recent News<a id="research"></a></b></h1>
+<h2 style="margin-bottom: 20px;">Recent News</h2>
 ---
 <table class="news-table">
   <tbody>

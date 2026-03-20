@@ -67,13 +67,13 @@ I am an active member of the <a  href= "https://www.masakhane.io/"> Masakhane</a
   <tr style="border: none;">
     <td align="center" width="60" style="border: none; padding: 0; vertical-align: middle;">
       <a href="https://www.abington.psu.edu/">
-        <img src="/images/companies/pennstate.png" width="50" style="border-radius: 12px; display: block;">
+        <img src="/images/companies/pennstate.png" width="50" style="border-radius: 0px; display: block;">
       </a>
     </td>
     <td style="border: none; padding-left: 15px; vertical-align: middle;">
       <div style="display: flex; justify-content: space-between; align-items: flex-start;">
         <strong><a href="https://www.abington.psu.edu/" style="text-decoration: none; color: inherit; font-size: 17px;">Penn State</a></strong>
-        <code style="font-size: 12px;">Aug 2026 - Jan 2026</code>
+        <code style="font-size: 14px;">Aug 2026 - Jan 2026</code>
       </div>
       <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 2px;">
         <span style="font-size: 14px; color: #24292f;">Visiting Researcher</span>

@@ -13,6 +13,7 @@ I received an MSc in Computer Science from <a  href= "https://bit.bdu.edu.et/"> 
 B.Sc. in Information Technology from  <a href="https://wu.edu.et/"> Wollo University</a>, Kombolcha Institute of Technology, Ethiopia. I work on advancing language models for emotional intelligence, low-resource language understanding, cultural and linguistic representation, and speech recognition. More recently, I have begun exploring alignment and safety evaluations of large language models(LLMs) and broader modalities with VLMs.
 I am an active member of the <a  href= "https://www.masakhane.io/"> Masakhane</a> and <a  href= "https://ethionlp.github.io/">EthioNLP</a> NLP community.
 
+<!--Research-->
 <div class="research-dashboard">
   <div class="dashboard-card combined-impact-card" style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px; margin-bottom: 5px;">
     <div class="dashboard-card-header" style="display: flex; align-items: center; margin-bottom: 10px;">
@@ -24,15 +25,15 @@ I am an active member of the <a  href= "https://www.masakhane.io/"> Masakhane</a
         <div style="color: #586069; font-size: 12px;">Citations 📈</div>
       </div>
       <div style="flex: 1 1 22%; border: 1px solid #f0f0f0; border-radius: 4px; padding: 10px; background: #fafbfc;">
-        <div style="font-size: 20px;"><b>13</b></div>
+        <div style="font-size: 20px;"><b>10</b></div>
         <div style="color: #586069; font-size: 12px;">h-index 🎓</div>
       </div>
       <div style="flex: 1 1 22%; border: 1px solid #f0f0f0; border-radius: 4px; padding: 10px; background: #fafbfc;">
-        <div style="font-size: 20px;"><b>700K+</b></div>
+        <div style="font-size: 20px;"><b>100K+</b></div>
         <div style="color: #586069; font-size: 12px;">Models Downloads 🤖</div>
       </div>
       <div style="flex: 1 1 22%; border: 1px solid #f0f0f0; border-radius: 4px; padding: 10px; background: #fafbfc;">
-        <div style="font-size: 20px;"><b>50K+</b></div>
+        <div style="font-size: 20px;"><b>10K+</b></div>
         <div style="color: #586069; font-size: 12px;">Benchmarks Downloads 📊</div>
       </div>
     </div>
@@ -41,8 +42,10 @@ I am an active member of the <a  href= "https://www.masakhane.io/"> Masakhane</a
       <span style="margin: 0 10px; color: #e1e4e8;">•</span>
       <a href="https://huggingface.co/ahmed-masry">🤗 HuggingFace →</a>
     </div>
-
   </div>
+
+
+  <!--Publications venue-->
   <div class="dashboard-card publications-card" style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px;">
     <div class="dashboard-card-header" style="margin-bottom: 10px;">
       <h3 class="dashboard-card-title" class="dashboard-card-title" style="margin: 0;">📚 Key Publications</h3>
@@ -55,17 +58,14 @@ I am an active member of the <a  href= "https://www.masakhane.io/"> Masakhane</a
       <img src="https://img.shields.io/badge/NAACL'25_'24-16a085?style=flat-square">
     </div>
   </div>
-
 </div>
 
+
+<!--Work experiance-->
 <h2 style="margin-bottom: 10px;">Work Experience</h2>
-
 <div style="display: flex; flex-direction: column; gap: 20px;">
-
   <!-- Cohere -->
   <div style="display: flex; gap: 15px; align-items: flex-start;">
-    
-    <!-- Logo -->
 <div 
   style="width:60px; height:60px; border-radius:12px; background:#f6f8fa; display:flex; align-items:center; justify-content:center; transition: all 0.2s ease;"
   onmouseover="this.style.transform='scale(1.08)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)';"
@@ -79,10 +79,10 @@ I am an active member of the <a  href= "https://www.masakhane.io/"> Masakhane</a
       <!-- Top row -->
       <div style="display:flex; justify-content:space-between; align-items:center;">
         <h3 style="margin:0; font-size:18px;">
-          <a href="https://cohere.com/" target="_blank" style="text-decoration:none; color:#24292f;">Cohere</a>
+        <a href="https://www.abington.psu.edu/" target="_blank" style="text-decoration:none; color:#24292f;">Penn State</a>
         </h3>
         <span style="background:#f6f8fa; padding:5px 10px; border-radius:8px; font-size:12px;">
-          Jan 2026 - Present
+          Aug 2026 - Jan 2026
         </span>
       </div>
 

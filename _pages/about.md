@@ -67,7 +67,7 @@ I am an active member of the <a  href= "https://www.masakhane.io/"> Masakhane</a
   <tr style="border: none;">
     <td align="center" width="60" style="border: none; padding: 0; vertical-align: middle;">
       <a href="https://www.abington.psu.edu/">
-        <img src="/images/companies/pennstate.png" width="50" style="border-radius: 0px; display: block;">
+        <img src="/images/companies/pennstate.png" width="50" height="50" style="border: 1px solid #d0d7de; border-radius: 4px; padding: 4px; display: block;">
       </a>
     </td>
     <td style="border: none; padding-left: 15px; vertical-align: middle;">

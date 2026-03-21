@@ -42,20 +42,20 @@
           {% if post.authors %}
             {% assign authors_text = post.authors %}
             {% comment %} Handle markdown bold syntax first {% endcomment %}
-            {% assign authors_text = authors_text | replace: '**Ahmed Masry**', '<strong>Ahmed Masry</strong>' %}
-            {% assign authors_text = authors_text | replace: '**Ahmed Masry\***', '<strong>Ahmed Masry*</strong>' %}
-            {% assign authors_text = authors_text | replace: '**A. Masry**', '<strong>A. Masry</strong>' %}
+            {% assign authors_text = authors_text | replace: '**Tadesse Destaw Belay**', '<strong>Tadesse Destaw Belay</strong>' %}
+            {% assign authors_text = authors_text | replace: '**Tadesse Destaw Belay\***', '<strong>Tadesse Destaw Belay*</strong>' %}
+            {% assign authors_text = authors_text | replace: '**Tadesse D. Belay**', '<strong>Tadesse D. Belay</strong>' %}
             {% comment %} If not already bolded, bold the name {% endcomment %}
             {% unless authors_text contains '<strong>' %}
-              {% assign authors_text = authors_text | replace: 'Ahmed Masry', '<strong>Ahmed Masry</strong>' %}
-              {% assign authors_text = authors_text | replace: 'A. Masry', '<strong>A. Masry</strong>' %}
+              {% assign authors_text = authors_text | replace: 'Tadesse Destaw Belay', '<strong>Tadesse Destaw Belay</strong>' %}
+              {% assign authors_text = authors_text | replace: 'Tadesse D. Belay', '<strong>Tadesse D. Belay</strong>' %}
             {% endunless %}
             {{ authors_text }}
           {% else %}
             <strong>{{ site.author.name }}</strong>
           {% endif %}
           {% if post.date %}
-            <span class="publication__year">({{ post.date | default: "1900-01-01" | date: "%Y" }})</span>
+            <span class="publication__year">({{ post.date | default: "2000-01-01" | date: "%Y" }})</span>
           {% endif %}
         </p>
 

@@ -1,11 +1,15 @@
 ---
-title: "Impacts of homophone normalization on semantic models for Amharic"
+title: "COLMATE: Contrastive Late Interaction and Masked Text for Multimodal Document Retrieval"
 collection: publications
-permalink: /publication/2021-11-11-paper-title-number-3
-venue: 'The Third International Conference on ICT for Development for Africa (ICT4DA 2021)'
-citation: '<b>Belay, T. D.</b>, Ayele, A.A., Gelaye, G., Yimam, S.M., and Biemann, C. (2021): &quot; Impacts of Homophone Normalization on Semantic Models for Amharic&quot;, <i>Proceedings of the Third International Conference on ICT for Development for Africa (ICT4DA 2021)</i>, Bahir Dar, Ethiopia'
+permalink: /publication/2025-11-01-colmate
+category: conference
+excerpt: 'COLMATE: Contrastive Late Interaction and Masked Text for Multimodal Document Retrieval.'
+date: 2025-12-06
+venue: 'EMNLP 2025 Industry Track'
+authors: 'Ahmed Masry, Megh Thakkar, Patrice Bechard, Sathwik Tejaswi Madhusudhan, Rabiul Awal, Shambhavi Mishra, Akshay Kalkunte Suresh, Srivatsava Daruru, Enamul Hoque, Spandana Gella, Torsten Scholak, Sai Rajeswar'
+paperurl: 'https://aclanthology.org/2025.emnlp-industry.145/'
+header:
+  teaser: colmate-fig.png
 ---
 
-[Download paper here](https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2021-belayetal-ict4da-amharicnorm.pdf)
-
-Recommended citation: Belay, T. D., Ayele, A.A., Gelaye, G., Yimam, S.M., and Biemann, C. (2021): &quot; Impacts of Homophone Normalization on Semantic Models for Amharic&quot;, <i>Proceedings of the Third International Conference on ICT for Development for Africa (ICT4DA 2021)</i>, Bahir Dar, Ethiopia.
+COLMATE: Contrastive Late Interaction and Masked Text for Multimodal Document Retrieval.

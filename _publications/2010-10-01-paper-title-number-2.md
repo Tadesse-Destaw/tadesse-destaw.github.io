@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "ChartInstruct: Instruction Tuning for Chart Comprehension and Reasoning"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2024-03-01-chartinstruct
+category: conference
+excerpt: 'ChartInstruct: Instruction tuning for chart comprehension and reasoning.'
+date: 2024-03-01
+venue: 'ACL 2024'
+authors: 'Ahmed Masry*, Mehrad Shahmohammadi*, Md Rizwan Parvez, Enamul Hoque, Shafiq Joty'
+paperurl: 'https://arxiv.org/abs/2403.09028'
+header:
+  teaser: chartinstruct-fig.png
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+ChartInstruct: Instruction tuning for chart comprehension and reasoning.

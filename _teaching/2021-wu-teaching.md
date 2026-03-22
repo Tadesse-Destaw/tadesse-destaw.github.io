@@ -9,7 +9,7 @@ location: "Kombolcha, Ethiopia"
 ---
 
 **Role:** Lecturer  
-**Period:** Sep 2021 - Aug 2023 
+**Period:** Sep 2021 - Aug 2023
 **Location:** Kombolcha, Ethiopia
 
 **Course Taught:**

@@ -5,20 +5,16 @@ permalink: /academic-services/
 author_profile: true
 ---
 
-## Tutorial Organizer 
-* **EACL 2026:** Shafiq Joty, Enamul Hoque, **Ahmed Masry**,
-Spandana Gella, Samira Ebrahimi Kahou. *Multimodal Large Language Models for Human–AI Interaction: Foundations, Agents, and Inclusive Applications*
+## Summer School Organizer 
+* **Summer school 2024:** *Summer school for women in AI and Data Science*, Addis Ababa Science and Technology University 2024
 
-## Workshop Organizer 
-* **IEEE MLSP 2025:** Sherif Mohamed, **Ahmed Masry**, Enamul Hoque Prince, Parisa Kordjamshidi. *Large Vision Language Models (LVLMs) and their Application to Document Understanding*
+## Workshop Organizer/Committee
+* **EthioNLP 2025:**  *The 1st EthioNLP Workshop at ICES22, Ethiopia*
+* **AfricaNLP 2025, 2026:**  *The 6th and 7th AfricaNLP Workshop*
 
 ## Conference Reviewer
-* **ACL ARR:** Feb 24, May 24, Oct 24, Feb 25, May 25, Jul 25, Oct 25 
+* **ACL ARR:** Since Feb 2024 
 
-* **NeurIPS:** May 25 
-
-* **ICLR:** Oct 25
-
-## Grant Reviewer
-* **American University of Beirut (AUB):** reviewed a grant proposal for the University Research Board. 
-
+## Community Member
+* **EthioNLP:** Since 2023
+* **Masakhane:** Since 2022 

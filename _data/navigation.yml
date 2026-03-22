@@ -15,5 +15,11 @@ main:
  # - title: "Work Experience"
  #   url: /workexprience/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
+
+  # - title: "Extracurricular Activities"
+  #   url: /extracurricular-activities/
+
+  - title: "Academic Services"
+    url: /academic-services/

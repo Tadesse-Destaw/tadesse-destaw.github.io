@@ -1,5 +1,4 @@
 ---
-
 title: "The Rise of AfricaNLP: Contributions, Contributors, and Community Impact (2005-2025)"
 collection: publications
 permalink: /publication/2025-09-01-africanlp
@@ -11,6 +10,6 @@ authors: 'Tadesse Destaw Belay, Kedir Yassin Hussen, Sukairaj Hafiz Imam, Ibrahi
 paperurl: 'https://arxiv.org/abs/2509.25477'
 header:
 teaser: africanalp-fig.png
--------------------------------
+---
 
 The Rise of AfricaNLP: Contributions, Contributors, and Community Impact (2005-2025).

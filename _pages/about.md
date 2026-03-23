@@ -92,7 +92,7 @@ I am an active member of the <a  href= "https://www.masakhane.io/"> Masakhane</a
     <td style="border: none; padding-left: 15px; vertical-align: middle;">
       <div style="display: flex; justify-content: space-between; align-items: flex-start;">
         <strong><a href="https://www.palmlab.org/" style="text-decoration: none; color: inherit; font-size: 17px;">🌴PALM Lab at USF</a></strong>
-        <code style="font-size: 14px;">Jul 2026 - Feb 2026</code>
+        <code style="font-size: 14px;">Jul 2026 - Mar 2026</code>
       </div>
       <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 2px;">
         <span style="font-size: 14px; color: #24292f;">PhD Intern</span>

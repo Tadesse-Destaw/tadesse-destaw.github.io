@@ -1,6 +1,6 @@
 ---
 title: "Cultural and Linguistic Representation in the Era of LLMs"
-collection: Seminar
+collection: talks
 type: "Seminar talk"
 permalink: /talks/2026-03-20-bdu-seminar
 venue: "Bahir Dar University"

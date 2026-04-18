@@ -67,6 +67,25 @@ I am an active member of the <a  href= "https://www.masakhane.io/"> Masakhane</a
   <tr style="border: none;">
     <td align="center" width="60" style="border: none; padding: 0; vertical-align: middle;">
       <a href="https://www.abington.psu.edu/">
+        <img src="/images/companies/unihamburg" width="60" height="60" style="border: 1px solid #d0d7de; border-radius: 4px; padding: 4px; display: block;">
+      </a>
+    </td>
+    <td style="border: none; padding-left: 15px; vertical-align: middle;">
+      <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+        <strong><a href="https://www.hcds.uni-hamburg.de/" style="text-decoration: none; color: inherit; font-size: 17px;">UNiversity of Hamburg</a></strong>
+        <code style="font-size: 14px;">April 2026 - Present</code>
+      </div>
+      <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 2px;">
+        <span style="font-size: 14px; color: #24292f;">Visiting Researcher</span>
+        <em style="font-size: 12px; color: #8c959f;">Hamburg, Germany</em>
+      </div>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; width: 100%; margin-bottom: 20px;">
+  <tr style="border: none;">
+    <td align="center" width="60" style="border: none; padding: 0; vertical-align: middle;">
+      <a href="https://www.abington.psu.edu/">
         <img src="/images/companies/pennstate.png" width="60" height="60" style="border: 1px solid #d0d7de; border-radius: 4px; padding: 4px; display: block;">
       </a>
     </td>

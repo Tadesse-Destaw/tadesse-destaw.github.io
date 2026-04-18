@@ -72,7 +72,7 @@ I am an active member of the <a  href= "https://www.masakhane.io/"> Masakhane</a
     </td>
     <td style="border: none; padding-left: 15px; vertical-align: middle;">
       <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-        <strong><a href="https://www.hcds.uni-hamburg.de/" style="text-decoration: none; color: inherit; font-size: 17px;">UNiversity of Hamburg</a></strong>
+        <strong><a href="https://www.hcds.uni-hamburg.de/" style="text-decoration: none; color: inherit; font-size: 17px;">University of Hamburg</a></strong>
         <code style="font-size: 14px;">April 2026 - Present</code>
       </div>
       <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 2px;">
@@ -91,7 +91,7 @@ I am an active member of the <a  href= "https://www.masakhane.io/"> Masakhane</a
     </td>
     <td style="border: none; padding-left: 15px; vertical-align: middle;">
       <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-        <strong><a href="https://www.abington.psu.edu/" style="text-decoration: none; color: inherit; font-size: 17px;">Penn State</a></strong>
+        <strong><a href="https://www.abington.psu.edu/" style="text-decoration: none; color: inherit; font-size: 17px;">Pennsylvania State University</a></strong>
         <code style="font-size: 14px;">Aug 2026 - Jan 2026</code>
       </div>
       <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 2px;">
@@ -110,7 +110,7 @@ I am an active member of the <a  href= "https://www.masakhane.io/"> Masakhane</a
     </td>
     <td style="border: none; padding-left: 15px; vertical-align: middle;">
       <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-        <strong><a href="https://www.palmlab.org/" style="text-decoration: none; color: inherit; font-size: 17px;">🌴PALM Lab at USF</a></strong>
+        <strong><a href="https://www.palmlab.org/" style="text-decoration: none; color: inherit; font-size: 17px;">🌴University of South Florida</a></strong>
         <code style="font-size: 14px;">Jul 2026 - Mar 2026</code>
       </div>
       <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 2px;">
